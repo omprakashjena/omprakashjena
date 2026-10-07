@@ -1,16 +1,29 @@
-## Hi there 👋
+<a href="https://omprakashjena.com">
+  <img src="./header.svg" alt="Omprakash Jena, Enterprise AI Architect. Enterprise GenAI, engineered for production." width="100%">
+</a>
 
-<!--
-**omprakashjena/omprakashjena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Enterprise AI Architect at Tata Consultancy Services. I design and deliver production GenAI and agentic AI systems on Azure and Databricks, from proof of concept and proposal through to a governed, observable release.
 
-Here are some ideas to get you started:
+### Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Result | Case study |
+| --- | --- |
+| **&lt;90 s** to answer across 1M+ enterprise emails, down from about 30 minutes | [GenAI email search and summarisation](https://omprakashjena.com/work/email-search/) |
+| **&lt;2 min** to generate a project charter that took 30–40 effort hours | [AI project charter generation](https://omprakashjena.com/work/charter-generation/) |
+| **300+** users on a production GenAI platform I architected | |
+
+### Stack
+
+![Azure](https://img.shields.io/badge/Azure-1B3A5C?style=flat-square)
+![Databricks](https://img.shields.io/badge/Databricks-1B3A5C?style=flat-square)
+![AKS](https://img.shields.io/badge/AKS-1B3A5C?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-1B3A5C?style=flat-square)
+![Python](https://img.shields.io/badge/Python-1B3A5C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1B3A5C?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-1B3A5C?style=flat-square)
+
+### Contact
+
+[omprakashjena.com](https://omprakashjena.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/omprakash-jena) &nbsp;|&nbsp; [Résumé (PDF)](https://omprakashjena.com/omprakash-jena-resume.pdf)
+
+Based in Derby, UK and Kolkata, India.
