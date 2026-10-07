@@ -16,7 +16,7 @@ I'm an Enterprise AI Architect at Tata Consultancy Services. I design and delive
 
 ### Stack
 
-![Azure](https://img.shields.io/badge/Azure-1B3A5C?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-1B3A5C?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTcgMTloMTAuNWE0LjUgNC41IDAgMCAwIC43LTguOTVBNi41IDYuNSAwIDAgMCA1LjYgOC42IDUgNSAwIDAgMCA3IDE5eiIvPjwvc3ZnPgo%3D)
 ![Databricks](https://img.shields.io/badge/Databricks-1B3A5C?style=flat-square&logo=databricks&logoColor=white)
 ![AKS](https://img.shields.io/badge/AKS-1B3A5C?style=flat-square&logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-1B3A5C?style=flat-square&logo=mlflow&logoColor=white)
