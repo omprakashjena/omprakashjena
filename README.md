@@ -1,10 +1,12 @@
 <p>
 <a href="https://omprakashjena.com">
-  <img src="./header.svg" alt="Omprakash Jena, Enterprise AI Architect. Enterprise GenAI, engineered for production." width="100%">
+  <img src="./header.svg" alt="Omprakash Jena, AI Solutions Architect. Enterprise GenAI, engineered for production." width="100%">
 </a>
 </p>
 
-I'm an Enterprise AI Architect at Tata Consultancy Services. I design and deliver production GenAI and agentic AI systems on Azure and Databricks, from proof of concept and proposal through to a governed, observable release.
+I'm an AI Solutions Architect at Tata Consultancy Services. I design and deliver production GenAI and agentic AI systems on Azure and Databricks, from proof of concept and proposal through to a governed, observable release.
+
+Since 2024 I've helped grow one client engagement from a proof of concept into eight AI and data solutions, from RAG search and agentic automation to causal analysis.
 
 ### Selected work
 
@@ -16,13 +18,18 @@ I'm an Enterprise AI Architect at Tata Consultancy Services. I design and delive
 
 ### Stack
 
-![Azure](https://img.shields.io/badge/Azure-1B3A5C?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTcgMTloMTAuNWE0LjUgNC41IDAgMCAwIC43LTguOTVBNi41IDYuNSAwIDAgMCA1LjYgOC42IDUgNSAwIDAgMCA3IDE5eiIvPjwvc3ZnPgo%3D)
+![Azure](https://img.shields.io/badge/Azure-1B3A5C?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTcgMTloMTAuNWE0LjUgNC41IDAgMCAwIC43LTguOTVBNi41IDYuNSAwIDAgMCA1LjYgOC42IDUgNSAwIDAgMCA3IDE5eiIvPjwvc3ZnPgo%3D&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-1B3A5C?style=flat-square&logo=databricks&logoColor=white)
 ![AKS](https://img.shields.io/badge/AKS-1B3A5C?style=flat-square&logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-1B3A5C?style=flat-square&logo=mlflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1B3A5C?style=flat-square&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1B3A5C?style=flat-square&logo=langgraph&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1B3A5C?style=flat-square&logo=fastapi&logoColor=white)
+
+### Credentials and writing
+
+- Databricks Certified Generative AI Engineer Associate
+- A white paper on securing retrieval-augmented generation in business process services (TCS, forthcoming 2026)
 
 ### Contact
 
